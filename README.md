@@ -1,12 +1,6 @@
 # GuessNumber
 
-## Getting Started 
-
-### Prerequisites
-
-### Installing 
-
-## Built With
+A very simple game built with Python.  Guess what the number is between 0 and 10.  
 
 ## Author
 * **Sylvan Wilson** - *Initial work* - [Sirbir](https://github.com/Sirbir
